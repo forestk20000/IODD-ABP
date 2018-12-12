@@ -1,0 +1,9 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# IDEs and editors
+.vs/
+obj/
+bin/
+iodd-aspnet-core/src/IODD.Web.Host/App_Data/Logs/
+iodd-aspnet-core/src/IODD.Web.Mvc/App_Data/Logs/
+iodd-aspnet-core/src/IODD.Migrator/Logs/Logs.txt
